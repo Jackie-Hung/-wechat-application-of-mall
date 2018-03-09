@@ -1,0 +1,14 @@
+<view class="box">
+  <view class="box-content" bindtap='locating'>
+    <image src='/images/icons/icon-addr.png'></image>
+    <text> xx省xx市xx县xx路xx街xx号</text>
+  </view>
+  <view class="box-content">
+    <image src='/images/icons/icon-time.png'></image>
+    <text> 8:00-22:00</text>
+  </view>
+  <view class="box-content" bindtap='calling'>
+    <image src='/images/icons/icon-phone.png'></image>
+    <text> 123456789</text>
+  </view>
+</view>
