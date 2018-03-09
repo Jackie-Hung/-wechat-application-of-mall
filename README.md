@@ -9,8 +9,8 @@
 * utils --- 存放utils文件
 
 # 项目截图:
-
-
+![Alt text](https://github.com/Jackie-Hung/-wechat-application-of-mall/blob/master/images/1.png/)
+![Alt text](https://github.com/Jackie-Hung/-wechat-application-of-mall/blob/master/images/2.png/)
 
 # 个人说明：
 项目为个人练手demo，欢迎指正
